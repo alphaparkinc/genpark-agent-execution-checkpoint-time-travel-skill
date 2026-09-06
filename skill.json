@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-execution-checkpoint-time-travel-skill",
+  "version": "1.0.0",
+  "description": "Transactional agent state checkpointer with deterministic snapshotting, time-travel rollback, and branch history tracking.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "checkpointing",
+    "time-travel",
+    "snapshot",
+    "temporal",
+    "genpark",
+    "mcp"
+  ]
+}
